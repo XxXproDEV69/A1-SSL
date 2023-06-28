@@ -97,6 +97,7 @@
 			<CommonModule>УправлениеСвойствами</CommonModule>
 			<CommonModule>УправлениеСвойствамиКлиент</CommonModule>
 			<CommonModule>УправлениеСвойствамиСлужебный</CommonModule>
+			<CommonModule>ПодключаемыеКомандыКлиент</CommonModule>
 			<SettingsStorage>ХранилищеВариантовОтчетов</SettingsStorage>
 			<FunctionalOption>ИспользоватьДополнительныеРеквизитыИСведения</FunctionalOption>
 			<Constant>ИспользоватьДополнительныеРеквизитыИСведения</Constant>
